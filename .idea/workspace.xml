@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a741e61-998e-40c7-a49d-179bf8015ef3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/Ingredients/BurgerIngredient.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Ingredients/BurgerIngredient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590262908470</updated>
-      <workItem from="1590262909998" duration="8671000" />
+      <workItem from="1590262909998" duration="9713000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1590263864040</created>
@@ -189,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590273983284</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Fixed error with propTypes">
+      <created>1590274291516</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590274291516</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,17 +233,18 @@
     <MESSAGE value="Added propTypes to BurgerIngredient.js" />
     <MESSAGE value="Added static burger" />
     <MESSAGE value="Added outputting Burger ingredients dynamically" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added outputting Burger ingredients dynamically" />
+    <MESSAGE value="Fixed error with propTypes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed error with propTypes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590264147525">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1590264147525" />
-    <state x="-1335" y="112" key="CommitChangelistDialog2" timestamp="1590273982723">
+    <state x="-1335" y="112" key="CommitChangelistDialog2" timestamp="1590274291002">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1335" y="112" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1590273982723" />
+    <state x="-1335" y="112" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1590274291002" />
     <state width="1877" height="433" key="GridCell.Tab.0.bottom" timestamp="1590273020975">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
