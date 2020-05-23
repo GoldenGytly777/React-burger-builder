@@ -1,16 +1,16 @@
-import React from 'react';
+import React, {Fragment} from 'react';
 
 
 const layout = (props) => (
-    <React.fragment>
+    <Fragment>
         <div>
             Toolbar, SideDrawer, Backdrop
         </div>
         <main>
             {props.children}
         </main>
-    </React.fragment>
+    </Fragment>
 
 );
 
-export default layout
+export default layout;
