@@ -2,7 +2,7 @@ import React from 'react';
 
 import style from './BurgerIngredients.module.css';
 
-const burgerIngredient= (props) => {
+const burgerIngredient = (props) => {
     let ingredient = null;
 
     switch (props.type) {
@@ -15,7 +15,7 @@ const burgerIngredient= (props) => {
                     <div className={style.Seeds1}></div>
                     <div className={style.Seeds2}></div>
                 </div>
-                );
+            );
             break;
         case('meat'):
             ingredient = <div className={style.Meat}></div>;
@@ -30,6 +30,7 @@ const burgerIngredient= (props) => {
             ingredient = <div className={style.Bacon}></div>;
             break;
 
-    };
+    }
 
+};
 export default burgerIngredient;
