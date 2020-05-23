@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7a741e61-998e-40c7-a49d-179bf8015ef3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590262908470</updated>
-      <workItem from="1590262909998" duration="3693000" />
+      <workItem from="1590262909998" duration="3889000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1590263864040</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590266799888</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added open-sans as default font">
+      <created>1590266883977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590266883977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,17 +141,18 @@
     <MESSAGE value="Added better file management" />
     <MESSAGE value="Added layout fragment" />
     <MESSAGE value="Fixed bug with fragment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed bug with fragment" />
+    <MESSAGE value="Added open-sans as default font" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added open-sans as default font" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590264147525">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1590264147525" />
-    <state x="-1335" y="112" key="CommitChangelistDialog2" timestamp="1590266799324">
+    <state x="-1335" y="112" key="CommitChangelistDialog2" timestamp="1590266883448">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1335" y="112" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1590266799324" />
+    <state x="-1335" y="112" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1590266883448" />
     <state width="1877" height="433" key="GridCell.Tab.0.bottom" timestamp="1590265642694">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
