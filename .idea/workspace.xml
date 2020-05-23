@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Burger/Ingredients/BurgerIngredient.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Ingredients/BurgerIngredient.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590262908470</updated>
-      <workItem from="1590262909998" duration="8348000" />
+      <workItem from="1590262909998" duration="8671000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1590263864040</created>
@@ -183,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590273019190</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added outputting Burger ingredients dynamically">
+      <created>1590273983284</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590273983284</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,17 +221,18 @@
     <MESSAGE value="Updated BurgerIngredient.js" />
     <MESSAGE value="Added propTypes to BurgerIngredient.js" />
     <MESSAGE value="Added static burger" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added static burger" />
+    <MESSAGE value="Added outputting Burger ingredients dynamically" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added outputting Burger ingredients dynamically" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590264147525">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1590264147525" />
-    <state x="-1335" y="112" key="CommitChangelistDialog2" timestamp="1590273018665">
+    <state x="-1335" y="112" key="CommitChangelistDialog2" timestamp="1590273982723">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1335" y="112" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1590273018665" />
+    <state x="-1335" y="112" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1590273982723" />
     <state width="1877" height="433" key="GridCell.Tab.0.bottom" timestamp="1590273020975">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
